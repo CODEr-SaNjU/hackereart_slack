@@ -4,4 +4,4 @@ from django.http import Http404, HttpResponse
 
 
 def home(request):
-    return HttpResponse("hyy sanju here")
+    return render(request,"html_files/home.htm")
