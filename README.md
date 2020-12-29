@@ -12,8 +12,8 @@ Run the following command to ensure you have pip installed in your system: $ pip
 
 Clone project files from Github repository
 
-	Run `git clone https://github.com/makeorbuy/vertibld_software.git`
-Change Directory to folder vertibld_software/vertibld_application/vertibld_sourcecode (where the pipfile exists)
+	Run `https://github.com/CODEr-SaNjU/hackereart_slack.git`
+Change Directory to folder hackerearth/hackereart_slack/hackerearth/ (where the pipfile exists)
 
  # Run pip install pipenv
 
